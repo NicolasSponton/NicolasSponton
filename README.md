@@ -5,6 +5,6 @@ const Habilidaes = {
   **Lenguajes:** "C#, Java, JavaScript, Pascal, HTML, CSS",  
   **Bases de Datos:** "MySQL, MongoDB",  
   **Tecnologías:** "Git, Node.js, React"  
-};  
+}  
   
 Contacto: escnsponton@gmail.com

@@ -1,4 +1,4 @@
-Hola, soy **Nicolas Sponton** y soy un estudiante  de Desarrollo de Software, a su ves aprendo de forma complementaria siguiendo cursos gratuitos en la red.
+Hola, soy **Nicolas Sponton** y soy un estudiante  de Desarrollo de Software, a su ves aprendo de forma complementaria a travez de cursos en internet.
 Actualmente, me encuentro creando mis propios proyectos para mostrar mis habilidades.  
   
 const Habilidaes = {  

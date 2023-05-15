@@ -1,10 +1,9 @@
-Hola, soy **Nicolas Sponton** y soy un estudiante  de Desarrollo de Software, a su ves aprendo de forma complementaria a travez de cursos en internet.
-Actualmente, me encuentro creando mis propios proyectos para mostrar mis habilidades.  
+Entusiasta de la programacion, en constante aprendizaje a traves de diversos recursos en internet.  
+Actualmente trabajando como desarrollador Web FullStack.  
   
-const Habilidaes = {  
-  **Lenguajes:** "C#, Java, JavaScript, Pascal, HTML, CSS",  
-  **Bases de Datos:** "MySQL, MongoDB",  
-  **Tecnologías:** "Git, Node.js, React"  
-}  
+**Lenguajes:** JavaScript, Go, Java, C#, Pascal, SQL  
+**Bases de Datos:** MySQL, SQL Server, MongoDB  
+**FrameWorks y Entornos:** Node.js, React, Angular   
+**Herramientas:** Git  
   
 Contacto: escnsponton@gmail.com
